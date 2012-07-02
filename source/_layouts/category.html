@@ -1,0 +1,21 @@
+{% include header.html %}
+
+	<body>
+		{% include logo.html %}
+		<div id="wrapper">
+			<div id="content" class="index">
+				{% include asides/sidebar.html %}
+				<div id="main">
+					<h1>CATEGORY > {{ page.title }}</h1>
+					{{ content }}
+				</div>
+				<div id="footer">
+					{% include footer.html %}
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
+
+
+
