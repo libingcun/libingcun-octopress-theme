@@ -1,6 +1,6 @@
 #libingcun-octopress-theme
 
-libingcun-octopress-theme is a simple theme for Octopress, and inspired by (a jekyll theme)[http://blog.leezhong.com].
+libingcun-octopress-theme is a simple theme for Octopress, and inspired by [a jekyll them](http://blog.leezhong.com).
 
 ##Install
 
